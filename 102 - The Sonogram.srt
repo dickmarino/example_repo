@@ -1,5 +1,7 @@
 Monica is now headin NY in a car
-Another Line in master branch, changes all master
+
+Another Line in master branch. This is the final line.
+
 
 1
 00:00:03,300 --> 00:00:05,100
